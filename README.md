@@ -4,7 +4,8 @@
   - A Pixel Is Not A Little Square, A Pixel Is Not A Little Square, A Pixel Is Not A Little Square! (And a Voxel is Not a Little Cube) [URL](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf) ✅
   - Coded exposure photography: motion deblurring using fluttered shutter [URL](https://web.media.mit.edu/~raskar/deblur/CodedExpousreLowres.pdf) ✅
 - Chapter 2
-  - Introduction to Semantic Segmentation [URL](https://encord.com/blog/guide-to-semantic-segmentation/)
+  - Introduction to Semantic Segmentation [URL](https://encord.com/blog/guide-to-semantic-segmentation/) ✅
+    - Object Localization [URL](https://encord.com/glossary/object-localization-definition/)
   - What Energy Functions Can Be Minimized via Graph Cuts? [URL](https://www.cs.cornell.edu/~rdz/Papers/KZ-PAMI04.pdf)
 - Chapter 3
   - A computational approach to edge detection [DOI](10.1109/TPAMI.1986.4767851)
