@@ -1,0 +1,14 @@
+**Visual Computing**
+- Chapter 1
+  - The CCD Nitty-Gritty Ditty [URL](http://solar.physics.montana.edu/nuggets/2000/001201/001201.html) ✅✅
+  - A Pixel Is Not A Little Square, A Pixel Is Not A Little Square, A Pixel Is Not A Little Square! (And a Voxel is Not a Little Cube) [URL](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf) ✅
+  - Coded exposure photography: motion deblurring using fluttered shutter [URL](https://web.media.mit.edu/~raskar/deblur/CodedExpousreLowres.pdf)
+- Chapter 2
+  - Introduction to Semantic Segmentation [URL](https://encord.com/blog/guide-to-semantic-segmentation/)
+  - What Energy Functions Can Be Minimized via Graph Cuts? [URL](https://www.cs.cornell.edu/~rdz/Papers/KZ-PAMI04.pdf)
+- Chapter 3
+  - A computational approach to edge detection [DOI](10.1109/TPAMI.1986.4767851)
+  - A combined corner and edge detector [URL](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=88cdfbeb78058e0eb2613e79d1818c567f0920e2)
+  - Method and means for recognizing complex patterns [URL](https://patentimages.storage.googleapis.com/9f/9f/f3/87610ddec32390/US3069654.pdf)
+  - Distinctive image features from scale-invariant keypoints [URL](https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf)
+  - Rapid object detection using a boosted cascade of simple features [URL](https://www.cs.cmu.edu/~efros/courses/AP06/Papers/viola-cvpr-01.pdf)
