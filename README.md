@@ -2,7 +2,7 @@
 - Chapter 1
   - The CCD Nitty-Gritty Ditty [URL](http://solar.physics.montana.edu/nuggets/2000/001201/001201.html) ✅✅
   - A Pixel Is Not A Little Square, A Pixel Is Not A Little Square, A Pixel Is Not A Little Square! (And a Voxel is Not a Little Cube) [URL](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf) ✅
-  - Coded exposure photography: motion deblurring using fluttered shutter [URL](https://web.media.mit.edu/~raskar/deblur/CodedExpousreLowres.pdf)
+  - Coded exposure photography: motion deblurring using fluttered shutter [URL](https://web.media.mit.edu/~raskar/deblur/CodedExpousreLowres.pdf) ✅
 - Chapter 2
   - Introduction to Semantic Segmentation [URL](https://encord.com/blog/guide-to-semantic-segmentation/)
   - What Energy Functions Can Be Minimized via Graph Cuts? [URL](https://www.cs.cornell.edu/~rdz/Papers/KZ-PAMI04.pdf)
